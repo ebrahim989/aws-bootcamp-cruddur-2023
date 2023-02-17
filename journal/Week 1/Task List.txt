@@ -1,0 +1,9 @@
+Completed:
+Week 0 - Live stream Video + Additional Homework Video
+Week 0 - Spending Considerations Video
+Week 0 - Security Considerations Video 
+Week 0 - Create Architecture Diagram via Visual Paradigm (Logical Diagram)
+Week 0 - Create Admin IAM User
+Week 0 - Use shell, create access keys, save to local machine .aws folder
+Week 0 - Created billing alarm and SNS topic
+Week 0 - Created Budget
